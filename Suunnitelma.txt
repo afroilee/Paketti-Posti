@@ -1,0 +1,11 @@
+Ota kaikki klikkaukset ylös ja pidä siitä laskuria
+
+
+Tilastosivulle lisää tilastotietoa, kuten esimerkiksi clicks/upgrade (eli kuinka monta klikkausta on tarvittu keskimäärin yhden päivityksen nakkimiseen) tai average lemons/click (eli kuinka monta sitruunaa on kerätty keskimäärin yhdellä klikkauksella).
+Kauppasivulle lisää tuotteita.
+Pelin laskukaavojen muuttaminen.
+Saavutukset, joita saadaan, kun pelaaja on saavuttanut jonkin välietapin.
+Ranking, joka määrittelee pelaajan tason.
+Äänien lisääminen, esimerkiksi kuuluu "plop", kun käyttäjä napauttaa sitruunaa. 
+
+Etusivulle ostoslista, eli aina tarjoaa sitä mikä on halvin hinnaltaan, sekä "uusinta" saatavilla olevaa
